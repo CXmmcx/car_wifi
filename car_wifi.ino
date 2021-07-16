@@ -1,24 +1,4 @@
 #include <ESP8266WiFi.h>
-//前左
-//const int D1;
-//= 5;
-//const int D3;
-//= 0;
-//前右
-//const int D2;
-//= 4;
-//const int D4;
-//= 2;
-//后左
-//const int D5;
-//= 14;
-//const int D6;
-//= 12;
-//后右
-//const int D7;
-//= 13;
-//const int D8;
-//= 15;
 
 //设置WiFi名称和密码  const:常量
 const char *ssid = "cxcx";
